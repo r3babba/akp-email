@@ -1,0 +1,211 @@
+2020-09-28 14:47:41,993 :: INFO :: So should this
+2020-09-28 14:47:41,994 :: WARNING :: And this, too
+2020-09-28 14:47:42,067 :: INFO :: Constructor Function
+2020-09-28 14:47:42,067 :: INFO :: Create class instance
+2020-09-28 14:47:42,098 :: INFO :: server smtplib object created
+2020-09-28 14:47:42,099 :: INFO :: MIMEMultipart object created
+2020-09-28 14:47:42,100 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 14:47:42,101 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 14:47:42,101 :: INFO :: Subject of the email is sample_subject
+2020-09-28 14:47:42,121 :: INFO :: Set message body for the mail
+2020-09-28 14:49:38,800 :: INFO :: So should this
+2020-09-28 14:49:38,801 :: WARNING :: And this, too
+2020-09-28 14:49:38,861 :: INFO :: Constructor Function
+2020-09-28 14:49:38,862 :: INFO :: Create class instance
+2020-09-28 14:49:38,893 :: INFO :: server smtplib object created
+2020-09-28 14:49:38,894 :: INFO :: MIMEMultipart object created
+2020-09-28 14:49:38,895 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 14:49:38,895 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 14:49:38,896 :: INFO :: Subject of the email is sample_subject
+2020-09-28 14:49:38,902 :: INFO :: Set message body for the mail
+2020-09-28 14:49:38,909 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 14:52:55,920 :: INFO :: So should this
+2020-09-28 14:52:55,920 :: WARNING :: And this, too
+2020-09-28 14:52:57,740 :: INFO :: So should this
+2020-09-28 14:52:57,740 :: WARNING :: And this, too
+2020-09-28 14:53:19,917 :: INFO :: So should this
+2020-09-28 14:53:19,918 :: WARNING :: And this, too
+2020-09-28 14:55:04,437 :: INFO :: So should this
+2020-09-28 14:55:04,437 :: WARNING :: And this, too
+2020-09-28 14:56:08,104 :: INFO :: So should this
+2020-09-28 14:56:08,105 :: WARNING :: And this, too
+2020-09-28 14:56:45,763 :: INFO :: So should this
+2020-09-28 14:56:45,763 :: WARNING :: And this, too
+2020-09-28 14:56:45,815 :: INFO :: Constructor Function
+2020-09-28 15:03:05,653 :: INFO :: So should this
+2020-09-28 15:03:05,653 :: WARNING :: And this, too
+2020-09-28 15:03:29,726 :: INFO :: So should this
+2020-09-28 15:03:29,726 :: WARNING :: And this, too
+2020-09-28 15:03:29,741 :: INFO :: Constructor Function
+2020-09-28 15:05:07,093 :: INFO :: So should this
+2020-09-28 15:05:07,093 :: WARNING :: And this, too
+2020-09-28 15:05:07,109 :: INFO :: Constructor Function
+2020-09-28 15:05:25,709 :: INFO :: So should this
+2020-09-28 15:05:25,710 :: WARNING :: And this, too
+2020-09-28 15:05:25,713 :: INFO :: Constructor Function
+2020-09-28 15:05:50,185 :: INFO :: So should this
+2020-09-28 15:05:50,186 :: WARNING :: And this, too
+2020-09-28 15:05:50,190 :: INFO :: Constructor Function
+2020-09-28 15:05:50,190 :: INFO :: Create class instance
+2020-09-28 15:06:17,053 :: INFO :: So should this
+2020-09-28 15:06:17,053 :: WARNING :: And this, too
+2020-09-28 15:06:17,053 :: INFO :: Constructor Function
+2020-09-28 15:06:17,053 :: INFO :: Create class instance
+2020-09-28 15:07:19,794 :: INFO :: So should this
+2020-09-28 15:07:19,794 :: WARNING :: And this, too
+2020-09-28 15:07:19,794 :: INFO :: Constructor Function
+2020-09-28 15:07:19,794 :: INFO :: Create class instance
+2020-09-28 15:07:19,825 :: INFO :: server smtplib object created
+2020-09-28 15:07:19,825 :: INFO :: MIMEMultipart object created
+2020-09-28 15:07:19,825 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:07:19,825 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:07:19,825 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:07:19,841 :: INFO :: Set message body for the mail
+2020-09-28 15:07:19,841 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 15:08:46,550 :: INFO :: So should this
+2020-09-28 15:08:46,550 :: WARNING :: And this, too
+2020-09-28 15:08:46,550 :: INFO :: Constructor Function
+2020-09-28 15:08:46,550 :: INFO :: Create class instance
+2020-09-28 15:08:46,581 :: INFO :: server smtplib object created
+2020-09-28 15:08:46,581 :: INFO :: MIMEMultipart object created
+2020-09-28 15:08:46,581 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:08:46,581 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:08:46,581 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:08:46,581 :: INFO :: Set message body for the mail
+2020-09-28 15:08:46,608 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 15:12:36,791 :: INFO :: Constructor Function
+2020-09-28 15:12:36,792 :: INFO :: Create class instance
+2020-09-28 15:12:36,822 :: INFO :: server smtplib object created
+2020-09-28 15:12:36,824 :: INFO :: MIMEMultipart object created
+2020-09-28 15:12:36,824 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:12:36,825 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:12:36,825 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:12:36,830 :: INFO :: Set message body for the mail
+2020-09-28 15:12:36,858 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 15:22:29,158 :: INFO :: Constructor Function
+2020-09-28 15:22:29,158 :: INFO :: Create class instance
+2020-09-28 15:22:29,174 :: INFO :: server smtplib object created
+2020-09-28 15:22:29,174 :: INFO :: MIMEMultipart object created
+2020-09-28 15:22:29,174 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:22:29,174 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:22:29,174 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:22:29,190 :: INFO :: Set message body for the mail
+2020-09-28 15:22:29,830 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 15:22:54,759 :: INFO :: Constructor Function
+2020-09-28 15:22:54,760 :: INFO :: Create class instance
+2020-09-28 15:22:54,790 :: INFO :: server smtplib object created
+2020-09-28 15:22:54,792 :: INFO :: MIMEMultipart object created
+2020-09-28 15:22:54,792 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:22:54,793 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:22:54,793 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:22:54,800 :: INFO :: Set message body for the mail
+2020-09-28 15:22:55,370 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 15:47:47,109 :: INFO :: Constructor Function
+2020-09-28 15:47:47,109 :: INFO :: Create class instance
+2020-09-28 15:47:47,124 :: INFO :: server smtplib object created
+2020-09-28 15:47:47,124 :: INFO :: MIMEMultipart object created
+2020-09-28 15:47:47,124 :: INFO :: Mail is to be sent to reciever email
+2020-09-28 15:47:47,124 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-28 15:47:47,124 :: INFO :: Subject of the email is sample_subject
+2020-09-28 15:47:47,155 :: INFO :: Set message body for the mail
+2020-09-28 15:47:47,312 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-28 16:14:16,418 :: INFO :: Constructor Function
+2020-09-28 16:14:16,418 :: INFO :: Create class instance
+2020-09-28 16:14:16,418 :: INFO :: MIMEMultipart object created
+2020-09-28 16:14:16,418 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-09-28 16:14:16,418 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-09-28 16:14:16,418 :: INFO :: Subject of the email is sample_subject
+2020-09-28 16:14:16,449 :: INFO :: Set message body for the mail
+2020-09-29 10:34:53,482 :: INFO :: Constructor Function
+2020-09-29 10:34:53,482 :: INFO :: Create class instance
+2020-09-29 10:34:53,482 :: INFO :: MIMEMultipart object created
+2020-09-29 10:34:53,482 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-09-29 10:34:53,482 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-09-29 10:34:53,482 :: INFO :: Subject of the email is sample_subject
+2020-09-29 10:34:53,508 :: INFO :: Set message body for the mail
+2020-09-29 10:35:37,252 :: INFO :: Constructor Function
+2020-09-29 10:35:37,252 :: INFO :: Create class instance
+2020-09-29 10:35:37,252 :: INFO :: MIMEMultipart object created
+2020-09-29 10:35:37,252 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-09-29 10:35:37,252 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-09-29 10:35:37,252 :: INFO :: Subject of the email is sample_subject
+2020-09-29 10:35:37,272 :: INFO :: Set message body for the mail
+2020-09-29 11:37:50,682 :: INFO :: Constructor Function
+2020-09-29 11:37:50,682 :: INFO :: Create class instance
+2020-09-29 11:37:50,711 :: INFO :: server smtplib object created
+2020-09-29 11:37:50,712 :: INFO :: MIMEMultipart object created
+2020-09-29 11:37:50,713 :: INFO :: Mail is to be sent to reciever email
+2020-09-29 11:37:50,714 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-29 11:37:50,715 :: INFO :: Subject of the email is sample_subject
+2020-09-29 11:37:50,737 :: INFO :: Set message body for the mail
+2020-09-29 11:37:55,104 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-09-30 09:29:27,877 :: INFO :: Constructor Function
+2020-09-30 09:29:27,896 :: INFO :: Create class instance
+2020-09-30 09:29:51,614 :: INFO :: Constructor Function
+2020-09-30 09:29:51,630 :: INFO :: Create class instance
+2020-09-30 09:29:51,778 :: INFO :: server smtplib object created
+2020-09-30 09:29:51,778 :: INFO :: MIMEMultipart object created
+2020-09-30 09:29:51,778 :: INFO :: Mail is to be sent to reciever email
+2020-09-30 09:29:51,778 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-09-30 09:29:51,778 :: INFO :: Subject of the email is sample_subject
+2020-09-30 09:29:51,810 :: INFO :: Set message body for the mail
+2020-09-30 09:29:52,132 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
+2020-10-06 11:28:28,580 :: INFO :: Constructor Function
+2020-10-06 11:28:28,603 :: INFO :: Create class instance
+2020-10-06 11:28:28,604 :: INFO :: MIMEMultipart object created
+2020-10-06 11:28:28,605 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:28:28,606 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:28:28,607 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:28:28,626 :: INFO :: Set message body for the mail
+2020-10-06 11:31:59,659 :: INFO :: Constructor Function
+2020-10-06 11:31:59,659 :: INFO :: Create class instance
+2020-10-06 11:31:59,660 :: INFO :: MIMEMultipart object created
+2020-10-06 11:31:59,660 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:31:59,660 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:31:59,661 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:31:59,667 :: INFO :: Set message body for the mail
+2020-10-06 11:31:59,671 :: INFO :: Function to attach file
+2020-10-06 11:42:21,848 :: INFO :: Constructor Function
+2020-10-06 11:42:21,848 :: INFO :: Create class instance
+2020-10-06 11:42:21,848 :: INFO :: MIMEMultipart object created
+2020-10-06 11:42:21,848 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:42:21,848 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:42:21,848 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:42:50,148 :: INFO :: Constructor Function
+2020-10-06 11:42:50,148 :: INFO :: Create class instance
+2020-10-06 11:42:50,149 :: INFO :: MIMEMultipart object created
+2020-10-06 11:42:50,150 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:42:50,151 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:42:50,151 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:43:17,142 :: INFO :: Constructor Function
+2020-10-06 11:43:17,142 :: INFO :: Create class instance
+2020-10-06 11:43:17,142 :: INFO :: MIMEMultipart object created
+2020-10-06 11:43:17,142 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:43:17,142 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:43:17,142 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:43:17,158 :: INFO :: Set message body for the mail
+2020-10-06 11:43:17,158 :: INFO :: Function to attach file
+2020-10-06 11:44:21,970 :: INFO :: Constructor Function
+2020-10-06 11:44:21,970 :: INFO :: Create class instance
+2020-10-06 11:44:21,970 :: INFO :: MIMEMultipart object created
+2020-10-06 11:44:21,970 :: INFO :: Mail is to be sent to Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:44:21,970 :: INFO :: Mail is to be sent from Rahul.Kalubowila@acuitykp.com
+2020-10-06 11:44:21,970 :: INFO :: Subject of the email is sample_subject
+2020-10-06 11:44:21,985 :: INFO :: Set message body for the mail
+2020-10-06 11:44:21,985 :: INFO :: Function to attach file
+2020-10-06 11:55:35,003 :: INFO :: Constructor Function
+2020-10-06 11:56:50,087 :: INFO :: Constructor Function
+2020-10-06 11:57:10,728 :: INFO :: Constructor Function
+2020-10-06 11:57:54,624 :: INFO :: Constructor Function
+2020-10-06 12:56:44,650 :: INFO :: Constructor Function
+2020-10-15 10:50:30,073 :: INFO :: Constructor Function
+2020-10-15 10:50:30,073 :: INFO :: Create class instance
+2020-10-15 10:50:55,107 :: INFO :: Constructor Function
+2020-10-15 10:50:55,107 :: INFO :: Create class instance
+2020-10-15 10:50:55,107 :: INFO :: server smtplib object created
+2020-10-15 10:50:55,107 :: INFO :: MIMEMultipart object created
+2020-10-15 10:50:55,107 :: INFO :: Mail is to be sent to reciever email
+2020-10-15 10:50:55,107 :: INFO :: Mail is to be sent from abc@acuitykp.com
+2020-10-15 10:50:55,107 :: INFO :: Subject of the email is sample_subject
+2020-10-15 10:50:55,107 :: INFO :: Set message body for the mail
+2020-10-15 10:50:55,575 :: INFO :: Email is sent to reciever email from abc@acuitykp.com with the subject sample_subject of template 1
