@@ -2,8 +2,8 @@
 <emailautomation>
 
   <serverinfo>
-    <smtpserver>localhost</smtpserver>
-    <port>1025</port>
+    <smtpserver>smtp-mail.outlook.com</smtpserver>
+    <port>465</port>
   </serverinfo>
 
   <emailinfo>

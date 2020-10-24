@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="{{ url_for('send')}}"method="post">
+  <input type = "file" name = "fname"><br><br>
+  <button type="submit" class="btn btn-primay">Send</button>
+</form>
+
+<br>
+
+<form action = "/display_file" method = "post">
+  <input type = "submit" value = "Display the file">
+</form>
+
+<br>
+
+<form action = "/back" method = "post">
+  <input type = "submit" value = "Back">
+</form>
+
+<br>
+
+{{ df | safe }}
+
+<br>
+
+{% for value in data %}
+
+  <p> Email is sent to {{value.name}} </p>
+
+{% endfor %}
+
+<br>
+
+{{ prediction_text }}
+
+<br>
+
+</body>
+</html>

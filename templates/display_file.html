@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+{{ data | safe }}
+
+<br><br><br>
+
+<form action = "/send" method = "post">
+  <input type = "submit" value = "Send">
+</form>
+
+<br><br>
+
+<form action = "/back" method = "post">
+  <input type = "submit" value = "Back">
+</form>
+
+{{ prediction_text }}
+
+</body>
+</html>
