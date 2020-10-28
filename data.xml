@@ -2,14 +2,14 @@
 <emailautomation>
 
   <serverinfo>
-    <smtpserver>smtp-mail.outlook.com</smtpserver>
-    <port>465</port>
+    <smtpserver>smtp.gmail.com</smtpserver>
+    <port>587</port>
   </serverinfo>
 
   <emailinfo>
-    <sender>abc@acuitykp.com</sender>
-    <subject>sample_subject</subject>
-    <attachmentpath>dummy.pdf</attachmentpath>
+    <sender>acuityemail@gmail.com</sender>
+    <subject>Thank you for your application to Acuity Knowledge Partners</subject>
+    <password>acuity@123</password>
   </emailinfo>
 
 </emailautomation>

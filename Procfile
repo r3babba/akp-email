@@ -1,1 +1,1 @@
-web: gunicorn app:hrEmailAutoApp
+web: gunicorn app:app
