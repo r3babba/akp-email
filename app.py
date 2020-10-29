@@ -13,16 +13,16 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('index.html')
 
 @app.route('/display_file_send', methods = ['POST'])
 def display_file_send():
     file = request.form.get('fname')
     reader = pd.read_excel(file)
     
-    if request.form['submit_button'] == 'Display the file':
+    if request.form['submit_button'] == 'Preview':
         df=reader.to_html()
-        return df
+        return render_template('index.html',df=df)
     
     elif request.form['submit_button'] == 'Send':
         e_list=[]
@@ -40,11 +40,11 @@ def display_file_send():
             e_list.append(r_dict.copy())
             
         #values = json.loads[e_list]
-        return render_template('home.html',data=e_list)
+        return render_template('index.html',data=e_list)
     
 @app.route('/back', methods = ['POST'])
 def back():
-    return render_template('home.html')
+    return render_template('index.html')
 
 if __name__=="__main__":
     app.run(debug=True)
