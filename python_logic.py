@@ -33,11 +33,10 @@ class HrEmailAutomation:
     thispassword = root[1][2].text
     
     #Constructor method with instance variables
-    def __init__(self, reciever_email, state, name, method):
+    def __init__(self, reciever_email, state, name):
         self.reciever_email = reciever_email
         self.state = state
         self.name = name
-        self.method = method
         logging.info('Constructor Function')
         
     def setMessageBody(self, templatePath):

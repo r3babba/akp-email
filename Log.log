@@ -4121,3 +4121,207 @@
 2020-10-29 08:27:53,432 :: INFO ::127.0.0.1 - - [29/Oct/2020 08:27:53] "[37mGET / HTTP/1.1[0m" 200 -
 2020-10-29 08:28:00,358 :: INFO ::127.0.0.1 - - [29/Oct/2020 08:28:00] "[37mGET / HTTP/1.1[0m" 200 -
 2020-10-29 08:28:17,821 :: INFO ::127.0.0.1 - - [29/Oct/2020 08:28:17] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 14:33:30,387 :: INFO :: * Restarting with stat
+2020-11-11 14:33:31,757 :: WARNING :: * Debugger is active!
+2020-11-11 14:33:31,773 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:33:31,789 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:33:32,685 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:33:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 14:33:34,341 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:33:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-11-11 14:33:52,598 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:33:52] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2020-11-11 14:34:01,379 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:34:01] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2020-11-11 14:34:52,645 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:34:52] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2020-11-11 14:35:33,827 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:35:33] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2020-11-11 14:37:54,624 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 14:37:54,720 :: INFO :: * Restarting with stat
+2020-11-11 14:37:56,242 :: WARNING :: * Debugger is active!
+2020-11-11 14:37:56,266 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:37:56,285 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:37:58,589 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 14:37:58,673 :: INFO :: * Restarting with stat
+2020-11-11 14:38:00,063 :: WARNING :: * Debugger is active!
+2020-11-11 14:38:00,081 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:38:00,099 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:49:35,727 :: INFO :: * Restarting with stat
+2020-11-11 14:49:37,168 :: WARNING :: * Debugger is active!
+2020-11-11 14:49:37,185 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:49:37,201 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:49:49,095 :: INFO :: * Restarting with stat
+2020-11-11 14:49:50,533 :: WARNING :: * Debugger is active!
+2020-11-11 14:49:50,552 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:49:50,570 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:49:54,664 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:49:54] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 14:50:17,756 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:50:17] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:50:28,262 :: INFO ::Constructor Function
+2020-11-11 14:50:28,274 :: INFO ::Set meassage body for the mail
+2020-11-11 14:50:32,279 :: INFO ::Constructor Function
+2020-11-11 14:50:32,280 :: INFO ::Set meassage body for the mail
+2020-11-11 14:50:35,006 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:50:35] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:52:24,902 :: INFO :: * Restarting with stat
+2020-11-11 14:52:26,304 :: WARNING :: * Debugger is active!
+2020-11-11 14:52:26,322 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:52:26,339 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:52:34,131 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-11 14:52:34,240 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-11 14:52:34,254 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-11 14:52:34,268 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-11 14:52:34,497 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-11 14:52:34,518 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-11 14:52:34,643 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-11 14:52:38,326 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-11-11 14:52:38,357 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-11 14:52:38,385 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-11 14:52:38,386 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-11 14:52:38,510 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-11 14:52:38,519 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:52:38] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-11 14:53:00,661 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 14:53:00,768 :: INFO :: * Restarting with stat
+2020-11-11 14:53:02,373 :: WARNING :: * Debugger is active!
+2020-11-11 14:53:02,392 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:53:02,411 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:53:04,708 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 14:53:04,813 :: INFO :: * Restarting with stat
+2020-11-11 14:53:06,252 :: WARNING :: * Debugger is active!
+2020-11-11 14:53:06,272 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:53:06,291 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:53:07,429 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 14:53:07,545 :: INFO :: * Restarting with stat
+2020-11-11 14:53:09,085 :: WARNING :: * Debugger is active!
+2020-11-11 14:53:09,103 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 14:53:09,119 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 14:53:13,549 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:53:13] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 14:53:25,668 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:53:25] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:53:30,909 :: INFO ::Constructor Function
+2020-11-11 14:53:30,910 :: INFO ::Set meassage body for the mail
+2020-11-11 14:53:34,011 :: INFO ::Constructor Function
+2020-11-11 14:53:34,012 :: INFO ::Set meassage body for the mail
+2020-11-11 14:53:36,930 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:53:36] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:53:44,804 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:53:44] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:56:43,131 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:56:43] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 14:56:46,262 :: INFO ::127.0.0.1 - - [11/Nov/2020 14:56:46] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:06,100 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:06] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:06,992 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:06] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:08,328 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:08] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:18,036 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:18] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:18,909 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:18] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:05:20,076 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:05:20] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:06:35,919 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:06:36,019 :: INFO :: * Restarting with stat
+2020-11-11 15:06:37,542 :: WARNING :: * Debugger is active!
+2020-11-11 15:06:37,569 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:06:37,590 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:06:45,575 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:06:45,671 :: INFO :: * Restarting with stat
+2020-11-11 15:06:47,088 :: WARNING :: * Debugger is active!
+2020-11-11 15:06:47,107 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:06:47,125 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:06:49,410 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:06:49,504 :: INFO :: * Restarting with stat
+2020-11-11 15:06:50,918 :: WARNING :: * Debugger is active!
+2020-11-11 15:06:50,937 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:06:50,954 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:07:06,969 :: INFO :: * Restarting with stat
+2020-11-11 15:07:08,318 :: WARNING :: * Debugger is active!
+2020-11-11 15:07:08,336 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:07:08,352 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:07:09,853 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:07:09] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:07:19,341 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:07:19] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:07:29,620 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:07:29] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:08:24,300 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:08:24] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:08:29,212 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:08:29] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:09:48,871 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:09:48] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:09:51,665 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:09:51] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:09:53,729 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:09:53] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:13:10,002 :: INFO :: * Restarting with stat
+2020-11-11 15:13:11,377 :: WARNING :: * Debugger is active!
+2020-11-11 15:13:11,395 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:13:11,410 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:13:11,902 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:11] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:13:14,544 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:14] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:13:22,530 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:22] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,253 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2020-11-11 15:13:28,278 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,303 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,304 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,479 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,487 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-11-11 15:13:28,565 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2020-11-11 15:13:47,216 :: INFO ::Constructor Function
+2020-11-11 15:13:47,217 :: INFO ::Set meassage body for the mail
+2020-11-11 15:13:50,654 :: INFO ::Constructor Function
+2020-11-11 15:13:50,655 :: INFO ::Set meassage body for the mail
+2020-11-11 15:13:53,390 :: INFO ::Constructor Function
+2020-11-11 15:13:53,391 :: INFO ::Set meassage body for the mail
+2020-11-11 15:13:56,675 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:13:56] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:14:30,208 :: INFO ::Constructor Function
+2020-11-11 15:14:30,208 :: INFO ::Set meassage body for the mail
+2020-11-11 15:14:33,023 :: INFO ::Constructor Function
+2020-11-11 15:14:33,024 :: INFO ::Set meassage body for the mail
+2020-11-11 15:14:35,774 :: INFO ::Constructor Function
+2020-11-11 15:14:35,775 :: INFO ::Set meassage body for the mail
+2020-11-11 15:14:43,701 :: INFO :: * Restarting with stat
+2020-11-11 15:14:45,073 :: WARNING :: * Debugger is active!
+2020-11-11 15:14:45,091 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:14:45,108 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:14:48,830 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:14:48] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:14:56,301 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:14:56] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:15:01,618 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:15:01] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:18:12,140 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:18:12] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:18:23,856 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:18:23] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:19:06,571 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:19:06] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:19:10,342 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:19:10] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:19:18,136 :: INFO :: * Restarting with stat
+2020-11-11 15:19:19,646 :: WARNING :: * Debugger is active!
+2020-11-11 15:19:19,658 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:19:19,674 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:19:20,840 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:19:20] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:19:28,754 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:19:28] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:20:26,445 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:20:26] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:20:48,696 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:20:48] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:20:49,135 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:20:49] "[37mGET / HTTP/1.1[0m" 200 -
+2020-11-11 15:20:56,083 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:20:56] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:20:58,844 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:20:58] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:21:04,141 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:21:04] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:21:04,717 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:21:04] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:21:05,083 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:21:05] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:21:11,465 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:21:11] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:21:14,579 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:21:14] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:22:40,541 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:22:40] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:22:56,546 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:22:56] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:25:38,053 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:25:38,152 :: INFO :: * Restarting with stat
+2020-11-11 15:25:39,729 :: WARNING :: * Debugger is active!
+2020-11-11 15:25:39,749 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:25:39,765 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:25:40,905 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:25:41,002 :: INFO :: * Restarting with stat
+2020-11-11 15:25:42,466 :: WARNING :: * Debugger is active!
+2020-11-11 15:25:42,486 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:25:42,505 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:25:43,642 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:25:43,737 :: INFO :: * Restarting with stat
+2020-11-11 15:25:45,469 :: WARNING :: * Debugger is active!
+2020-11-11 15:25:45,491 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:25:45,525 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:25:50,604 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:25:50] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:25:57,761 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:25:57] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:26:38,195 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:26:38] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:27:06,373 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:27:06] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:27:12,159 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:27:12] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:27:28,173 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:27:28] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:27:37,955 :: INFO ::Constructor Function
+2020-11-11 15:27:37,956 :: INFO ::Set meassage body for the mail
+2020-11-11 15:27:42,105 :: INFO ::Constructor Function
+2020-11-11 15:27:42,106 :: INFO ::Set meassage body for the mail
+2020-11-11 15:27:44,877 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:27:44] "[37mPOST / HTTP/1.1[0m" 200 -
+2020-11-11 15:30:20,797 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\python_logic.py', reloading
+2020-11-11 15:30:20,896 :: INFO :: * Restarting with stat
+2020-11-11 15:30:22,583 :: WARNING :: * Debugger is active!
+2020-11-11 15:30:22,603 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:30:22,620 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:30:30,605 :: INFO :: * Detected change in 'c:\\Users\\Rahul Kalubowila\\OneDrive\\AKP\\Projects\\autoHR-main\\app.py', reloading
+2020-11-11 15:30:30,690 :: INFO :: * Restarting with stat
+2020-11-11 15:30:54,284 :: INFO :: * Restarting with stat
+2020-11-11 15:30:55,878 :: WARNING :: * Debugger is active!
+2020-11-11 15:30:55,896 :: INFO :: * Debugger PIN: 287-120-746
+2020-11-11 15:30:55,911 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-11-11 15:30:56,619 :: INFO ::127.0.0.1 - - [11/Nov/2020 15:30:56] "[37mGET / HTTP/1.1[0m" 200 -

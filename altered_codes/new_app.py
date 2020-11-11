@@ -7,14 +7,14 @@ Created on Wed Nov  4 13:35:56 2020
 
 from flask import Flask,render_template,request
 import pandas as pd
-import python_logic
+import SMTP_Outlook_Final
 
 app = Flask(__name__)
 
 @app.route('/', methods = ['GET','POST'])
 def home():
     if request.method == 'GET':
-        return render_template('index.html')
+        return render_template('table.html')
 
     if request.method == 'POST':
         
@@ -29,7 +29,7 @@ def home():
                 r_dict['state'] = row.state
                 r_dict['name'] = row.name
                 e_list.append(r_dict.copy())
-            return render_template('index.html',headings=headings,data=e_list)
+            return render_template('table.html',headings=headings,data=e_list)
         
         if request.form['submit_button'] == 'Send All Selected':
             values = []
@@ -49,10 +49,11 @@ def home():
                 state = result[i]["state"]
                 name = result[i]["name"]
                 names.append(name)
-                localSession = python_logic.HrEmailAutomation(reciever_email, state, name)
+                method = 'outlook'
+                localSession = SMTP_Outlook_Final.HrEmailAutomation(reciever_email, state, name, method)
                 localSession.run()
                 
-            return render_template('index.html', names = names)
+            return render_template('table.html', names = names)
 
 if __name__=="__main__":
     app.run(debug=True)
