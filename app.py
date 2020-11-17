@@ -20,8 +20,12 @@ def home():
         
         if request.form['submit_button'] == 'Preview':
             e_list=[]
-            file = request.form.get('fname')
-            reader = pd.read_excel(file)
+
+            print(request.files['fname'])
+            f = request.files['fname']
+            reader = pd.read_excel(f)
+            #file = request.form.get('fname')
+            #reader = pd.read_excel(file)
             headings = ("Reciever Email", "State", "Name", "Select")
             for row in reader.itertuples():
                 r_dict = {}
@@ -54,6 +58,6 @@ def home():
                 
             return render_template('index.html', names = names)
 
+
 if __name__=="__main__":
     app.run(debug=True)
-    
