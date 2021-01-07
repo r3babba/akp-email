@@ -95,7 +95,7 @@ class HrEmailAutomation:
 
             print('Email sent')
         except:
-            print('Something went wrong...')
+            print('Something went wrong bro...')
         
 
         
