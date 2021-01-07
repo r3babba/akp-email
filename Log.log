@@ -4429,3 +4429,17 @@
 2020-11-17 11:59:07,964 :: INFO ::Constructor Function
 2020-11-17 11:59:07,966 :: INFO ::Set meassage body for the mail
 2020-11-17 11:59:11,345 :: INFO ::127.0.0.1 - - [17/Nov/2020 11:59:11] "[37mPOST / HTTP/1.1[0m" 200 -
+2021-01-07 17:27:55,248 :: INFO :: * Restarting with stat
+2021-01-07 17:27:56,786 :: WARNING :: * Debugger is active!
+2021-01-07 17:27:56,835 :: INFO :: * Debugger PIN: 287-120-746
+2021-01-07 17:27:56,855 :: INFO :: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-01-07 17:28:03,612 :: INFO ::127.0.0.1 - - [07/Jan/2021 17:28:03] "[37mGET / HTTP/1.1[0m" 200 -
+2021-01-07 17:28:04,451 :: INFO ::127.0.0.1 - - [07/Jan/2021 17:28:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-01-07 17:28:09,330 :: INFO ::127.0.0.1 - - [07/Jan/2021 17:28:09] "[37mPOST / HTTP/1.1[0m" 200 -
+2021-01-07 17:28:13,573 :: INFO ::Constructor Function
+2021-01-07 17:28:13,586 :: INFO ::Set meassage body for the mail
+2021-01-07 17:28:17,059 :: INFO ::Constructor Function
+2021-01-07 17:28:17,060 :: INFO ::Set meassage body for the mail
+2021-01-07 17:28:20,143 :: INFO ::Constructor Function
+2021-01-07 17:28:20,144 :: INFO ::Set meassage body for the mail
+2021-01-07 17:28:22,959 :: INFO ::127.0.0.1 - - [07/Jan/2021 17:28:22] "[37mPOST / HTTP/1.1[0m" 200 -
