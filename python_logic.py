@@ -91,9 +91,9 @@ class HrEmailAutomation:
 
         try:
             server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+            server.connect("smtp.gmail.com",465)
             server.ehlo()
             server.starttls(context=context) # Secure the connection
-            server.ehlo() # Can be omitted
             server.login(self.sender_email, self.thispassword)
             server.sendmail(self.sender_email, self.reciever_email, message)
             server.close()
