@@ -86,13 +86,14 @@ class HrEmailAutomation:
         message.attach(body)
         message = message.as_string()
 
-        # Create a secure SSL context
-        #context = ssl.create_default_context()
+        
 
         try:
+            # Create a secure SSL context
+            context = ssl.create_default_context()
             server = smtplib.SMTP('smtp.gmail.com', 587 )
             server.ehlo()
-            #server.starttls(context=context) # Secure the connection
+            server.starttls(context=context) # Secure the connection
             server.login(self.sender_email, self.thispassword)
             server.sendmail(self.sender_email, self.reciever_email, message)
             server.close()
