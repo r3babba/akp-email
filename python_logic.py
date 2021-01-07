@@ -99,8 +99,8 @@ class HrEmailAutomation:
             server.close()
 
             print('Email sent')
-        except:
-            print('Something went wrong...')
+        except Exception as e:
+            print(e)
         
 
         
