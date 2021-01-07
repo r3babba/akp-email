@@ -86,16 +86,21 @@ class HrEmailAutomation:
         message.attach(body)
         message = message.as_string()
 
+        # Create a secure SSL context
+        context = ssl.create_default_context()
+
         try:
             server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
             server.ehlo()
+            server.starttls(context=context) # Secure the connection
+            server.ehlo() # Can be omitted
             server.login(self.sender_email, self.thispassword)
             server.sendmail(self.sender_email, self.reciever_email, message)
             server.close()
 
             print('Email sent')
         except:
-            print('Something went wrong bro...')
+            print('Something went wrong...')
         
 
         
